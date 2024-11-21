@@ -4,5 +4,5 @@ body {
 }
 
 header{
-    border:solid 2px pink;
+    border-bottom:solid 2px rgb(255, 192, 192);
 }
